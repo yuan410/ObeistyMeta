@@ -1,6 +1,6 @@
 # Overview
 This repository contains the datasets, code scripts, and instructions for running the code implemented in the paper: *"Machine Learning-Based Identification of Abnormal Functional Connectivity in Obesity Across Different Metabolic States."*
-Please note that this repository provides **mock datasets** and scripts. **For the actual code implementation, refer to the Docker Implementation as outlined in the instructions below.**
+Please note that this repository provides MOCK datasets and scripts. **For the actual code implementation, refer to the Docker Implementation as outlined in the instructions below.**
 - The full mock dataset can be found in `datasets/MOCKED_data`.
 - The demo mock dataset is available in `datasets/Demo_MOCKED_data`.
 - The code script is in 'notebooks/'
@@ -21,17 +21,17 @@ Please be aware that using the mock data may lead to results different from thos
 - The package has been tested on Ubuntu 23.04 and Windows 10.
 
 #### Python Dependencies
-pandas==1.5.2
-numpy==1.23.3
-scikit-learn==1.4.1.post1
-matplotlib==3.7.3
-seaborn==0.11.2
-nilearn==0.10.2
-scipy==1.10.1
-statistics
-statannotations==0.6.0
-statsmodels==0.14.0
-statannot==0.2.3
+- pandas==1.5.2
+- numpy==1.23.3
+- scikit-learn==1.4.1.post1
+- matplotlib==3.7.3
+- seaborn==0.11.2
+- nilearn==0.10.2
+- scipy==1.10.1
+- statistics
+- statannotations==0.6.0
+- statsmodels==0.14.0
+- statannot==0.2.3
 
 
 # Docker Implementation
