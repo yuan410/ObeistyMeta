@@ -57,7 +57,7 @@ Refer to the images below for guidance on adjusting cells:
 
 # License
 
-This project is open source and is licensed under GPL 3.0.
+This project is open-source and is licensed under Apache 2.0.
 
 
 
