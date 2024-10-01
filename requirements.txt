@@ -1,0 +1,12 @@
+librosa
+pandas==1.5.2
+numpy==1.23.3
+scikit-learn==1.4.1.post1
+matplotlib==3.7.3
+seaborn==0.11.2
+nilearn==0.10.2
+scipy==1.10.1
+statistics
+statannotations==0.6.0
+statsmodels==0.14.0
+statannot==0.2.3
